@@ -1,0 +1,5 @@
+﻿  main.c
+G:\Git\SoftWerk2\CreateFile\CreateFile\main.c(28,7): warning C4013: "srand" undefiniert; Annahme: extern mit Rückgabetyp int
+G:\Git\SoftWerk2\CreateFile\CreateFile\main.c(49,13): warning C4013: "atoi" undefiniert; Annahme: extern mit Rückgabetyp int
+G:\Git\SoftWerk2\CreateFile\CreateFile\main.c(74,28): warning C4013: "rand" undefiniert; Annahme: extern mit Rückgabetyp int
+  CreateFile.vcxproj -> G:\Git\SoftWerk2\CreateFile\Debug\CreateFile.exe

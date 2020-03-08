@@ -1,0 +1,4 @@
+﻿  main.c
+G:\Git\SoftWerk2\SortANum\SortANum\main.c(24,27): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+G:\Git\SoftWerk2\SortANum\SortANum\main.c(30,18): warning C4013: "atoi" undefiniert; Annahme: extern mit Rückgabetyp int
+  SortANum.vcxproj -> G:\Git\SoftWerk2\SortANum\Debug\SortANum.exe

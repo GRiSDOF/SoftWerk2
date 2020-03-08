@@ -1,0 +1,8 @@
+﻿  main.c
+G:\Git\SoftWerk2\SortANum\SortANum\main.c(31,22): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "char *" unterschiedlich
+  Code wird generiert.
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  SortANum.vcxproj -> G:\Git\SoftWerk2\SortANum\Release\SortANum.exe

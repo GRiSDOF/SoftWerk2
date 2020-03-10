@@ -1,13 +1,13 @@
-////////////////////////////////////////////////////////////
-//		  Salzburg University of Applied Sciences				//						
-//		Information Technology & Systems Management				//							
+//////////////////////////////////////////////////////////////////
+//		  Salzburg University of Applied Sciences				//
+//		Information Technology & Systems Management				//
 //						SWE2-ILV/B								//
 //////////////////////////////////////////////////////////////////
 // date:			08.03.2020									//
-//																//					
 //																//
-// author:			Christoph Lenzbauer							//				
-// email:			clenzbauer.its-b2019@fh-salzburg.ac.at		//									
+//																//
+// author:			Christoph Lenzbauer							//
+// email:			clenzbauer.its-b2019@fh-salzburg.ac.at		//
 //////////////////////////////////////////////////////////////////
 
 #include <stdio.h>

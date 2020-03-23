@@ -1,0 +1,3 @@
+﻿  main.c
+G:\Git\SoftWerk2\ILV02\intArrayQSort\intArrayQSort\main.c(38,7): warning C4013: "qsort" undefiniert; Annahme: extern mit Rückgabetyp int
+  intArrayQSort.vcxproj -> G:\Git\SoftWerk2\ILV02\intArrayQSort\Debug\intArrayQSort.exe

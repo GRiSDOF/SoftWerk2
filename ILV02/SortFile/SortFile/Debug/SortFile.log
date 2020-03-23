@@ -1,0 +1,6 @@
+﻿  main.c
+G:\Git\SoftWerk2\ILV02\SortFile\SortFile\main.c(41,11): warning C4129: "d": nicht erkannte Folge von Escapesequenz
+G:\Git\SoftWerk2\ILV02\SortFile\SortFile\main.c(69,28): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+G:\Git\SoftWerk2\ILV02\SortFile\SortFile\main.c(74,19): warning C4013: "atoi" undefiniert; Annahme: extern mit Rückgabetyp int
+G:\Git\SoftWerk2\ILV02\SortFile\SortFile\main.c(80,9): warning C4013: "qsort" undefiniert; Annahme: extern mit Rückgabetyp int
+  SortFile.vcxproj -> G:\Git\SoftWerk2\ILV02\SortFile\Debug\SortFile.exe

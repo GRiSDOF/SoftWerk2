@@ -1,0 +1,9 @@
+﻿  node.c
+G:\Git\SoftWerk2\xOther\ProgramHW1\ProgramHW1\node.c(7,37): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+G:\Git\SoftWerk2\xOther\ProgramHW1\ProgramHW1\node.c(7,1): warning C4047: "Initialisierung": Anzahl der Dereferenzierungen bei "node *" und "int" unterschiedlich
+  main.c
+G:\Git\SoftWerk2\xOther\ProgramHW1\ProgramHW1\node.c(7,37): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+G:\Git\SoftWerk2\xOther\ProgramHW1\ProgramHW1\node.c(7,1): warning C4047: "Initialisierung": Anzahl der Dereferenzierungen bei "node *" und "int" unterschiedlich
+G:\Git\SoftWerk2\xOther\ProgramHW1\ProgramHW1\node.h(2,1): error C2011: "node": "struct" Typneudefinition
+G:\Git\SoftWerk2\xOther\ProgramHW1\ProgramHW1\node.h(1): message : Siehe Deklaration von "node"
+  Code wird generiert...

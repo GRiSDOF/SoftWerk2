@@ -2,9 +2,9 @@
 #include <conio.h>
 #include "node.h"
 
-struct node* makeNode(int val)
+node* makeNode(int val)
 {
-	struct node* generatedNode = malloc(sizeof(struct node));
+	node* generatedNode = malloc(sizeof(node));
 
 	if (generatedNode)
 	{
@@ -19,7 +19,7 @@ struct node* makeNode(int val)
 	}
 }
 
-struct node* connectNodes(struct node* root, struct node* leaf)
+node* connectNodes(node* root, node* leaf)
 {
 	if (root == NULL || leaf == NULL)
 	{

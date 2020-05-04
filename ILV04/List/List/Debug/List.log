@@ -1,0 +1,13 @@
+﻿  list.c
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\List\List\list.c(10,32): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\List\List\list.c(96,7): warning C4013: "free" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\List\List\list.c(145,10): warning C4477: "printf": Die Formatzeichenfolge "%s" erfordert ein Argument vom Typ "char *", das variadic-Argument "2" weist aber den Typ "void *" auf.
+  main.c
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\List\List\list.h(5,1): error C2011: "_list": "struct" Typneudefinition
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\List\List\list.h(4): message : Siehe Deklaration von "_list"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\List\List\list.h(12,1): error C2011: "_header": "struct" Typneudefinition
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\List\List\list.h(11): message : Siehe Deklaration von "_header"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\List\List\list.c(10,32): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\List\List\list.c(96,7): warning C4013: "free" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\List\List\list.c(145,10): warning C4477: "printf": Die Formatzeichenfolge "%s" erfordert ein Argument vom Typ "char *", das variadic-Argument "2" weist aber den Typ "void *" auf.
+  Code wird generiert...

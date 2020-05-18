@@ -1,0 +1,23 @@
+﻿  fifo.c
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(10,34): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(18,25): warning C4133: "=": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(30,32): warning C4133: "=": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(36,9): warning C4013: "free" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(33,1): warning C4133: "Initialisierung": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(57,32): warning C4133: "=": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(80,27): warning C4047: "!=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(82,32): warning C4133: "=": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(94,26): warning C4133: "=": Inkompatible Typen - von "item *" zu "item *"
+  main.c
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(10,34): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(18,25): warning C4133: "=": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(30,32): warning C4133: "=": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(36,9): warning C4013: "free" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(33,1): warning C4133: "Initialisierung": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(57,32): warning C4133: "=": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(80,27): warning C4047: "!=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(82,32): warning C4133: "=": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.c(94,26): warning C4133: "=": Inkompatible Typen - von "item *" zu "item *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.h(3,22): error C2011: "_item": "struct" Typneudefinition
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Fifo\Fifo\fifo.h(3): message : Siehe Deklaration von "_item"
+  Code wird generiert...

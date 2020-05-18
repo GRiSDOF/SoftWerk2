@@ -1,0 +1,17 @@
+﻿  main.c
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\lifo.c(10,34): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\lifo.c(28,9): warning C4013: "free" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\lifo.h(3,22): error C2011: "_item": "struct" Typneudefinition
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\lifo.h(3): message : Siehe Deklaration von "_item"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(34,15): warning C4013: "put" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(34,24): warning C4047: "=": Anzahl der Dereferenzierungen bei "item *" und "int" unterschiedlich
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(35,25): warning C4047: "=": Anzahl der Dereferenzierungen bei "item *" und "int" unterschiedlich
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(36,24): warning C4047: "=": Anzahl der Dereferenzierungen bei "item *" und "int" unterschiedlich
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(37,24): warning C4047: "=": Anzahl der Dereferenzierungen bei "item *" und "int" unterschiedlich
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(38,24): warning C4047: "=": Anzahl der Dereferenzierungen bei "item *" und "int" unterschiedlich
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(40,46): warning C4013: "lengthFifo" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(47,9): warning C4013: "last" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(48,9): warning C4013: "next" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(50,15): warning C4013: "get" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(50,21): warning C4047: "=": Anzahl der Dereferenzierungen bei "item *" und "int" unterschiedlich
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Lifo\Lifo\main.c(51,21): warning C4047: "=": Anzahl der Dereferenzierungen bei "item *" und "int" unterschiedlich

@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Recursion2\Recursion2\main.c(34,73): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "void *(__cdecl *)(const void *)" und "void (__cdecl *)(const void *)" unterschiedlich
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Recursion2\Recursion2\main.c(34,73): warning C4022: "printIterative": Zeigertyp für übergebenen Parameter 4 stimmt nicht mit dem deklarierten Zeigertyp überein
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Recursion2\Recursion2\main.c(38,73): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "void *(__cdecl *)(const void *)" und "void (__cdecl *)(const void *)" unterschiedlich
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Recursion2\Recursion2\main.c(38,73): warning C4022: "printRecursive": Zeigertyp für übergebenen Parameter 4 stimmt nicht mit dem deklarierten Zeigertyp überein
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Recursion2\Recursion2\main.c(48,1): warning C4028: Formaler Parameter "4" unterscheidet sich von der Deklaration
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Recursion2\Recursion2\main.c(57,1): warning C4028: Formaler Parameter "4" unterscheidet sich von der Deklaration
+  Recursion2.vcxproj -> C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\Recursion2\Debug\Recursion2.exe

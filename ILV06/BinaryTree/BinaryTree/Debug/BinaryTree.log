@@ -1,0 +1,6 @@
+﻿  binaryTree.c
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\BinaryTree\BinaryTree\binaryTree.c(12,30): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\BinaryTree\BinaryTree\binaryTree.c(120,8): warning C4013: "free" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\BinaryTree\BinaryTree\binaryTree.c(129,15): warning C4133: "return": Inkompatible Typen - von "BNODE *" zu "BNODE *"
+C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\BinaryTree\BinaryTree\binaryTree.c(126,1): warning C4133: "Initialisierung": Inkompatible Typen - von "bnode *" zu "BNODE *"
+  BinaryTree.vcxproj -> C:\Users\Christoph Lenzbauer\Google Drive\FH\2. Semester\SWE\BinaryTree\Debug\BinaryTree.exe
